@@ -11,6 +11,28 @@ color:#F00;
 color:#690;
 }
 
+.size500 {
+font-size:500%;
+}
+
+.mincyo {
+font-family:"ＭＳ Ｐ明朝", "ヒラギノ明朝 Pro W3", serif;
+font-weight:bold;
+font-style:italic;
+}
+
+a {
+color:#00F;
+}
+
+a:hover {/*マウスが上に乗っている状態*/
+color:#FF0099;　←ピンク色
+text-decoration:underline;　←下線を表示
+}
+.center_test {
+text-align:center;
+}
+
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 display: block;
-} 
+}
