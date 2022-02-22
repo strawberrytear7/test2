@@ -41,11 +41,15 @@ text-indent:35px;
 }
 
 body {
-background-color:#ffe;
+background-color:#ff9;
 }
 
-#sidenavi {　←サイドナビ
-background-color:#F93;
+.mawarikomi {
+float:left;
+}
+
+.clear {
+clear:both;
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
